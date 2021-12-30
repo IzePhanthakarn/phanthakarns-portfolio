@@ -187,7 +187,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background-image: url(assets/homebackground.jpeg);
+  background-image: url(assets/homebackground.png);
   height: 100vh;
   color: #fff;
   min-height: 500px;
